@@ -1,1 +1,1 @@
-<?php `git pull`;
+<?php `git merge remotes/origin/master`;
